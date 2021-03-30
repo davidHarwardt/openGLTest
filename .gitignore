@@ -2,4 +2,3 @@ bin/
 build/
 !build/dll/*.dll
 lib/
-include/
