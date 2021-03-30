@@ -1,4 +1,4 @@
-bin
-build
-lib
-include
+bin/
+build/
+lib/
+include/
