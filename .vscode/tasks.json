@@ -1,0 +1,20 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+      {
+        "label": "makefile",
+        "type": "shell",
+        "command": "makef",
+      },
+      {
+        "label": "build",
+        "type": "shell",
+        "command": "build",
+      },
+      {
+        "label": "run",
+        "type": "shell",
+        "command": "run",
+      }
+    ]
+  }
